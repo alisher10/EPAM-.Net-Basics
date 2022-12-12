@@ -53,7 +53,7 @@ class Bird : IFlyable
         currentPosition = coordinate;//setting initial value with a current one
     }
     
-    //implementing method GetFlyTime
+    //implementing method GetFlyTime to find a time 
     public float GetFlyTime(Coordinate c)
     {
         // (x2-x1)^2+(y2-y1)^2+(z2-z1)^2
@@ -100,7 +100,7 @@ class Airplane : IFlyable {
 class Drone : IFlyable {
   public Coordinate currentPosition = new Coordinate(0, 0, 0);
   public int speed;
-  
+
   public Drone(Coordinate coordinate) {
       speed = 50;
       currentPosition = coordinate;
@@ -109,12 +109,27 @@ class Drone : IFlyable {
     currentPosition = coordinate;
   }
   
+  //creating restriction method for drone, to find whether distance range is less than 1000
+  public bool AllowedRange(Coordinate c) {
+    float distance = (c.x - currentPosition.x) * (c.x - currentPosition.x) + (c.y - currentPosition.y) *
+        (c.y - currentPosition.y) + (c.z - currentPosition.z) * (c.z - currentPosition.z);
+    if(distance < 1000) {
+        return true;
+    } else {
+        return false;
+    }
+  }
   
   public float GetFlyTime(Coordinate c) {
     // (x2-x1)^2+(y2-y1)^2+(z2-z1)^2
-    float distance = (c.x - currentPosition.x) * (c.x - currentPosition.x) + (c.y - currentPosition.y) *
-    (c.y - currentPosition.y) + (c.z - currentPosition.z) * (c.z - currentPosition.z);
-    return (float)(distance / speed * 1.1);
+    if(AllowedRange(c)) {//calling restriction method and checking the allowed range for drone flight  
+        float distance = (c.x - currentPosition.x) * (c.x - currentPosition.x) + (c.y - currentPosition.y) *
+            (c.y - currentPosition.y) + (c.z - currentPosition.z) * (c.z - currentPosition.z);
+        return (float)(distance / speed * 1.1);
+    } else {
+        return 0;
+    }
+ 
   }
   
     public override string ToString()
@@ -131,15 +146,15 @@ class MyProgram
         Drone drone = new Drone(new Coordinate(5, 1, 3));
         Console.WriteLine(bird);
         Console.WriteLine(airplane);
-        Console.WriteLine(drone);
+        Console.WriteLine(drone + "\n");
         
         
-        Console.WriteLine(bird.GetFlyTime(new Coordinate(2, 3, 1)));
-        Console.WriteLine(airplane.GetFlyTime(new Coordinate(500, 38, 232)));
-        Console.WriteLine(drone.GetFlyTime(new Coordinate(10, 10, 23)));
+        Console.WriteLine("Bird FlyTime: " + bird.GetFlyTime(new Coordinate(2, 3, 1)));
+        Console.WriteLine("Airplane FlyTime: " + airplane.GetFlyTime(new Coordinate(500, 38, 232)));
+        Console.WriteLine("Drone FlyTime: " + drone.GetFlyTime(new Coordinate(10, 10, 23)) + "\n");
         Console.WriteLine(bird);
         Console.WriteLine(airplane);
-        Console.WriteLine(drone);
+        Console.WriteLine(drone + "\n");
         
         
         bird.FlyTo(new Coordinate(2, 3, 1));
