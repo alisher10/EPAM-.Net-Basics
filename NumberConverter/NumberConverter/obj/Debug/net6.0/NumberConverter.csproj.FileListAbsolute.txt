@@ -1,0 +1,15 @@
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\bin\Debug\net6.0\NumberConverter.exe
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\bin\Debug\net6.0\NumberConverter.deps.json
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\bin\Debug\net6.0\NumberConverter.runtimeconfig.json
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\bin\Debug\net6.0\NumberConverter.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\bin\Debug\net6.0\NumberConverter.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.csproj.AssemblyReference.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.AssemblyInfoInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.AssemblyInfo.cs
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\refint\NumberConverter.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\NumberConverter.genruntimeconfig.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\NumberConverter\NumberConverter\obj\Debug\net6.0\ref\NumberConverter.dll
