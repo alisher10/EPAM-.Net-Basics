@@ -1,0 +1,15 @@
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\bin\Debug\net6.0\XMLTask.exe
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\bin\Debug\net6.0\XMLTask.deps.json
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\bin\Debug\net6.0\XMLTask.runtimeconfig.json
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\bin\Debug\net6.0\XMLTask.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\bin\Debug\net6.0\XMLTask.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.csproj.AssemblyReference.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.AssemblyInfoInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.AssemblyInfo.cs
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.csproj.CoreCompileInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\refint\XMLTask.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\XMLTask.genruntimeconfig.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\XMLTask\XMLTask\obj\Debug\net6.0\ref\XMLTask.dll
