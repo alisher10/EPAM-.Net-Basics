@@ -1,0 +1,15 @@
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\bin\Debug\net6.0\MaxNumberOfUnequalChars.exe
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\bin\Debug\net6.0\MaxNumberOfUnequalChars.deps.json
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\bin\Debug\net6.0\MaxNumberOfUnequalChars.runtimeconfig.json
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\bin\Debug\net6.0\MaxNumberOfUnequalChars.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\bin\Debug\net6.0\MaxNumberOfUnequalChars.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.csproj.AssemblyReference.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.AssemblyInfoInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.AssemblyInfo.cs
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.csproj.CoreCompileInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\refint\MaxNumberOfUnequalChars.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\MaxNumberOfUnequalChars.genruntimeconfig.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\MaxNumberOfUnequalChars\MaxNumberOfUnequalChars\obj\Debug\net6.0\ref\MaxNumberOfUnequalChars.dll
