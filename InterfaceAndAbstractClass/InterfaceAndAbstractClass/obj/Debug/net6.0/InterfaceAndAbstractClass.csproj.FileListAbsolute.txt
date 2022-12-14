@@ -1,0 +1,15 @@
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\net6.0\InterfaceAndAbstractClass.exe
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\net6.0\InterfaceAndAbstractClass.deps.json
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\net6.0\InterfaceAndAbstractClass.runtimeconfig.json
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\net6.0\InterfaceAndAbstractClass.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\net6.0\InterfaceAndAbstractClass.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.csproj.AssemblyReference.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.AssemblyInfoInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.AssemblyInfo.cs
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\refint\InterfaceAndAbstractClass.dll
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.pdb
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\InterfaceAndAbstractClass.genruntimeconfig.cache
+C:\Users\KHAMIDOF FAMILY\source\repos\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\net6.0\ref\InterfaceAndAbstractClass.dll
